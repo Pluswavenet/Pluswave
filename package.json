@@ -1,0 +1,12 @@
+{
+    "name": "pluswave-tech",
+    "version": "1.0.0",
+    "description": "Pluswave Technology Website",
+    "scripts": {
+        "dev": "serve .",
+        "start": "serve ."
+    },
+    "dependencies": {
+        "serve": "^14.2.0"
+    }
+}
